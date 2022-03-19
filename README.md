@@ -21,6 +21,7 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
   - [Fuzzing: A Survey for Roadmap](#fuzzing-a-survey-for-roadmap)
   - [Survey of Software Fuzzing Techniques](#survey-of-software-fuzzing-techniques)
   - [A Review of Fuzzing Tools and Methods](#a-review-of-fuzzing-tools-and-methods)
+  - https://zhuanlan.zhihu.com/p/43432370 Fuzzing技术总结（Brief Surveys on Fuzz Testing）
 
 - **S&P 2022**
   - [BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning](#beacon-directed-grey-box-fuzzing-with-provable-path-pruning-sp-2022)
